@@ -18,6 +18,8 @@ class Home extends Component {
                     showButton={true}
                     image={image}
                 />
+
+                <Services />
             </div>
         );
     }
