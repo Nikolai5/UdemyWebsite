@@ -2,6 +2,9 @@ import React, {Component} from 'react';
 import Header from '../Common/Header';
 import image from '../assets/images/home.jpg';
 
+// Re-usable components
+import Services from '../Common/Services';
+
 class Home extends Component {
 
     render(){
